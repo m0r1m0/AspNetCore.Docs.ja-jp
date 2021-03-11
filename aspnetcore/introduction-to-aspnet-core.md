@@ -198,8 +198,8 @@ ASP.NET アプリを ASP.NET Core に移行するためのリファレンス ガ
 
 多くの記事やチュートリアルにサンプル コードへのリンクが含まれています。
 
-1. [ASP.NET リポジトリの zip ファイルをダウンロード](https://codeload.github.com/dotnet/AspNetCore.Docs/zip/master)します。
-1. *Docs-master.zip* ファイルを解凍します。
+1. [ASP.NET リポジトリの zip ファイルをダウンロード](https://codeload.github.com/dotnet/AspNetCore.Docs/zip/main)します。
+1. *Docs-main.zip* ファイルを解凍します。
 1. サンプル リンクの URL を使って、サンプル ディレクトリに移動します。
 
 ### <a name="preprocessor-directives-in-sample-code"></a>サンプル コードのプリプロセッサ ディレクティブ
